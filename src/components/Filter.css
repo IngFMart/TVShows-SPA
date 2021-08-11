@@ -1,0 +1,17 @@
+#filter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  margin: 6px;
+}
+
+button {
+  margin: 6px;
+  width: 200px;
+  height: 36px;
+  font-size: 1rem;
+}
